@@ -1,0 +1,24 @@
+body {
+  padding: 0px;
+  border: 0px;
+  font-family: sans-serif;
+  background-color: cadetblue;
+  color: whitesmoke;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.navmenu {
+  background-color: rgb(56, 68, 68);
+  width: 20%;
+  padding-bottom: 100%;
+  padding-right: 15px;
+  position: fixed;
+}
+.headermenu {
+  background-color: black;
+  width: 100%;
+  padding-bottom: 20%;
+}
+.content {
+  background-color: gold;
+}
